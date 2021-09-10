@@ -1,5 +1,7 @@
 # EMAIL-BOMB
 
+Use this only for education purpose 😊
+
 - apt update && upgrade -y
 
 - apt install python
@@ -11,3 +13,4 @@
 - git clone https://github.com/Darkhorse23/EMAIL-BOMB
 
 - python EB.py
+
