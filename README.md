@@ -10,6 +10,8 @@ Use this only for education purpose 😊
 
 - apt install git
 
+-cd EMAIL-BOMB
+
 - git clone https://github.com/Darkh33/EMAIL-BOMB
 
 - python EB.py
