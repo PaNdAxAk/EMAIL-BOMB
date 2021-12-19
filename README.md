@@ -16,3 +16,7 @@ Use this only for education purpose 😊
 
 - python EB.py
 
+
+# .... Screenshots ....
+
+![Githubstates](https://github.com/Azak33/EMAIL-BOMB/blob/main/IMG_20211219_222159.jpg)
