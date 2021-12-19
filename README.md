@@ -10,7 +10,7 @@ Use this only for education purpose 😊
 
 - apt install git
 
-- git clone https://github.com/Darkh33/EMAIL-BOMB
+- git clone https://github.com/Azak33/EMAIL-BOMB
 
 - cd EMAIL-BOMB
 
