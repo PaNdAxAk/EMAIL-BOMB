@@ -14,7 +14,7 @@ Use this only for education purpose 😊
 
 - cd EMAIL-BOMB
 
-- python EB.py
+- python axakeb.py
 
 
 # .... Screenshots ....
