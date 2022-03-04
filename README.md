@@ -19,4 +19,4 @@ Use this only for education purpose 😊
 
 # .... Screenshots ....
 
-![Githubstates](https://github.com/Azak33/EMAIL-BOMB/blob/main/IMG_20211219_222159.jpg)
+![Githubstates](https://github.com/PaNdAxAk/EMAIL-BOMB/blob/main/IMG_20220305_013700.jpg?raw=true)
