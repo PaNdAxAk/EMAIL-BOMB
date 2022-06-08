@@ -2,19 +2,19 @@
 
 Use this only for education purpose 😊
 
-- apt update && upgrade -y
+- `apt update && upgrade -y`
 
-- apt install python
+- `apt install python`
 
-- apt install python2
+- `apt install python2`
 
-- apt install git
+- `apt install git`
 
-- git clone https://github.com/Axakman/EMAIL-BOMB
+- `git clone https://github.com/Axakman/EMAIL-BOMB`
 
-- cd EMAIL-BOMB
+- `cd EMAIL-BOMB`
 
-- python eb.py
+- `python eb.py`
 
 
 # .... Screenshots ....
